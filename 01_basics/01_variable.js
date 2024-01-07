@@ -1,3 +1,4 @@
+// variables=>const var let
 const accountId=2563
 let accountEmail="aas@gmail.com"
 var accountPassword="1234"
